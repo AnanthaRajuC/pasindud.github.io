@@ -1,0 +1,19 @@
+permalink: /:categories/:title.html
+url: "http://pasindud.github.io"
+full_name: "Pasindu De Silva"
+first_name: "Pasindu"
+last_name: "De Silva"
+blog_title: "Pasindu's Land"
+author_img_name_path: "/images/users/pasindu.jpg"
+disqus_shortname: "pasinduland"
+copyright_year: "2014"
+google_analytics_code: ""
+aboutme: "A net junkie love programming , sport and tv shows"
+twitter: "Ghosteyes1"
+github: "pasindud"
+facebook: "mepasindu"
+linkined_url: ""
+exclude:
+- README.md
+- Rakefile
+- post.sh
