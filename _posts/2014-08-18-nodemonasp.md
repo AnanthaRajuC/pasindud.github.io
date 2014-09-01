@@ -45,6 +45,9 @@ Use [nodemon](http://github.com/remy/nodemon) this is a nodejs file watcher whic
 ```--ext cs,css,html,js``` - [Nodemon cmd]  Watch for file extension .cs and others in the list.
 
 
+Issues - File created after running nodemon might not be track
+so will have to restart nodemon by typing ```rs```
+
 
 ###Other
 This can be used for stuff like running test and stuff like that. Need to check whether this can be used with live reload to make life more easier. You could even write a bat and then excute that also.
