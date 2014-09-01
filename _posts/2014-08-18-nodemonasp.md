@@ -24,7 +24,7 @@ Use [nodemon](http://github.com/remy/nodemon) this is a nodejs file watcher whic
 
 ###Start Publishing
 
-1. Open cmd
+1. Open cmd Run as administrator
 2. Go your project solution or project example - ```cd C:\Users\Pasindu\Documents\Visual Studio 2013\Projects\{solution name}\{project}```
 
 3. Then Type the following insert your publishing profile
