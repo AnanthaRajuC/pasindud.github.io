@@ -2,7 +2,7 @@
 layout: blog
 title: Language Purpose
 category: blog
-tags: [nodejs, c#]  
+tags: [nodejs]  
 summery: Does all languages have a purpose
 image: /images/blog/programming-languages-1.jpg
 ---
