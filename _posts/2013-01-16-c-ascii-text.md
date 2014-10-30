@@ -16,7 +16,6 @@ So I made a header file called ```asciitext.h```
 [Github - https://github.com/pasindud/c_ascii_txt](https://github.com/pasindud/c_ascii_txt)
 
 
-[http://172.20.4.58:9090/smartoffice/interaction-cam](http://172.20.4.58:9090/smartoffice/interaction-cam)
 
 ###Usage
 After including that you can use it like this.
