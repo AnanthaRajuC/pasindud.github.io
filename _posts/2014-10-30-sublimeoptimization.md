@@ -10,7 +10,7 @@ image: /images/blog/Sublime_Text_Logo.png
 
 This is topic is highly debatable and has been over the year same as tabs vs spaces.
 
-###Two reasons from using sublime
+###Two reasons for using sublime
 *	Fast
 *	Clean -  all other IDEs , Text editors has those toolbars, splitted sidebars which makes your coding window smaller and distracting
 
