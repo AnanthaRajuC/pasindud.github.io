@@ -8,7 +8,7 @@ image: /images/blog/programming-languages-1.jpg
 ---
 
 There are quite a few languages out there and many of them have there
-speciality and purpose, let's note some ot them. Note that I have coded in all these languages in some point of time.
+speciality and purpose, let's note some to them. Note that I have coded in all these languages in some point of time.
 
 
 ####Java
@@ -51,7 +51,7 @@ HTML styling
 
 Finally
 
-C#
+####C#
 
 Incorporates everything from many languages isn't like your grandmother who knows everything 
 just by looking at some TV programs.  C# IDE visual studio 12GB seriously 
@@ -60,14 +60,4 @@ just by looking at some TV programs.  C# IDE visual studio 12GB seriously
 Some "features" it has been having in other languages for many years.
 These days visual studio has Node.js , python etc.
 
- 
-
-Advantage
-If you have licences and run into a wall, call microsoft support. That's worth it right. ( This is the impression I got)
-
-
-Who owns C# and develop PHP - microsoft bam ! they have an incentive to keep developing.
-
-
-Who own and develop PHP - who the hell knows (only most websites is php and worlds biggest sites uses it)
-doesn't have an incentive to develop the language.
+I believe C# is best suited for desktop applications and not web applications 
