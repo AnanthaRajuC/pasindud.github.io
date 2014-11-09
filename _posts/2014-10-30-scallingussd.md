@@ -3,7 +3,7 @@ layout: blog
 title: Scaling USSD Application
 category: blog
 tags: [php ,ideamart]  
-summery: How I scaled php ussd applications
+summary: How I scaled php ussd applications
 image: /images/blog/ScalingUSSD.png
 ---
 

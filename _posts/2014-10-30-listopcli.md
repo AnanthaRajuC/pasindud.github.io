@@ -3,7 +3,7 @@ layout: blog
 title: Listop CLI
 category: blog
 tags: [nodejs,dev me,hackthon]  
-summery:  A new member to the console club
+summary:  A new member to the console club
 image: /images/blog/listopcli.png
 ---
 

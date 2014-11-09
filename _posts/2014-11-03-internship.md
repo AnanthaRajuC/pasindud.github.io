@@ -3,35 +3,19 @@ layout: blog
 title: Ideamart Internship
 category: blog
 tags: [ dev me ]  
-summery: My Internship experience at Ideamart
+summary: My Internship experience at Ideamart
 image: /images/blog/ideamart.jpg
 ---
 
-All this start in this [Facebook group](https://www.facebook.com/groups/ideamartlk/) where I posted answers to developers questions
-and queries. After a couple months working on ideamart applications 
-I went to a GDG meet up where for the first time met Roshanth, Charith and Venura, where I had a 
-awesome discussion. 
+
+All these stuff started off with  a simple message from one of friends called "Pasindu" aka "Loku Pasindu". Which led me to 
+posted a link
 
 
-![](/images/blog/ideamart1.png " ")
-
-
-Next thing I know I got a chat message from Roshanth which is the following
-
-
-![](/images/blog/ideamart4.png " ")
-
-
-While thinking about it I posted a link about something I had done couple of months ago for my benefit but open sourced it
-
-
-
-![](/images/blog/ideamart2.png " ")
- 
-
-
-I was basically my technical interview
- 
+ about a simulator I had developed a month a ago. Before that I had answered developer question on 
+Facebook Ideamart group and was an active member. I got a message from a **Roshanth Gardiarachchi**
+saying that there were recruiting intern and whether I wanted one. I was only 6 months in to my degree 
+but started my Internship. 
 
 
 ###Ideamart ?

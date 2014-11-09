@@ -3,7 +3,7 @@ layout: blog
 title: Start blogging again
 category: blog
 tags: [blogging , info]  
-summery: My initial thoughts on blogging and selecting one
+summary: My initial thoughts on blogging and selecting one
 image: /images/blog/blogging-again.png
 ---
 

@@ -3,7 +3,7 @@ layout: blog
 title: C Ascii Text
 category: blog
 tags: [c programming , dev me ]  
-summery: Building a C Ascii Text Generator
+summary: Building a C Ascii Text Generator
 image: /images/blog/asciisonic1.jpg
 ---
 

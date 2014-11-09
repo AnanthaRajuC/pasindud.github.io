@@ -3,7 +3,7 @@ layout: blog
 title: Sublime Essential Plugins
 category: blog
 tags: []  
-summery:  What sublime plugins can make you more productive 
+summary:  What sublime plugins can make you more productive 
 image: /images/blog/Sublime_Text_Logo.png
 ---
 

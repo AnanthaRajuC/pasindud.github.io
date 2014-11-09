@@ -3,7 +3,7 @@ layout: blog
 title: Nodemon + ASP C# 
 category: blog
 tags: [nodejs, c#]  
-summery: Using nodemon for continuous publishing
+summary: Using nodemon for continuous publishing
 image: /images/blog/nodemonasp.jpg
 ---
 
