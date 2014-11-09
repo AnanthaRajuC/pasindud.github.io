@@ -62,7 +62,7 @@ what you have done.
 
 
 Ideamart applications are pretty small less than 200 - 300 lines of code and development time from 5mins to 2 hours.
-My first big Ideamart app was called **"BuyBack"** you may have used it or seen it. I also developed a simple real time
+My first big Ideamart app was called **"Big App"** you may have used it or seen it. I also developed a simple real time
 counter and graph, which was amazing first time I looked at it I couldn't imagine what I was seeing, I thought that obviously
 wrong so called some people and realised that it was right. Next thing I know there are prime time TV advertisements
 saying to use the application. When you see a mail thread with some names you know how important and how high you application has 
@@ -74,7 +74,7 @@ needs to matter.
 
 List of some applications I developed at Ideamart
 
-*	Buy Back Dialog
+*	Big App Dialog
 *	St Thomas Triathlon  - [donations stacked upto 300,000 and counting ](https://www.facebook.com/stc2014/app_384138201689465?ref=page_internal ), [Charity Champions]( https://www.facebook.com/stc2014/app_1378512672371158)
 *	SOS children's village - [Live donations](https://www.facebook.com/soscvsrilanka/app_564349563631905)
 *	Ray Of Hope -  [Donation](https://www.facebook.com/rayofhopesrilanka/app_564349563631905)
